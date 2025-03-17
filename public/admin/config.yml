@@ -3,7 +3,7 @@ backend:
   branch: main # change this to your branch
   repo: nodeloc666/Astro # 1、change this to your repo
   site_domain: ln.cloudns.ch # 2、change this to your domain
-  base_url: ln.cloudns.ch # 3、change this to your prod URL
+  base_url: https://ln.cloudns.ch # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
